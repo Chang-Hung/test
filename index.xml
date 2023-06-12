@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>毛毛窩</title>
-    <link>https://Chang-Hung.github.io/</link>
+    <link>https://Chang-Hung.github.io/test/</link>
     <description>Recent content on 毛毛窩</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 12 Jun 2023 18:07:47 +0800</lastBuildDate><atom:link href="https://Chang-Hung.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Jun 2023 18:07:47 +0800</lastBuildDate><atom:link href="https://Chang-Hung.github.io/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的第一篇文章</title>
-      <link>https://Chang-Hung.github.io/blog/test/</link>
+      <link>https://Chang-Hung.github.io/test/blog/test/</link>
       <pubDate>Mon, 12 Jun 2023 18:07:47 +0800</pubDate>
       
-      <guid>https://Chang-Hung.github.io/blog/test/</guid>
+      <guid>https://Chang-Hung.github.io/test/blog/test/</guid>
       <description>對於即將被資遣的內心感受 我在六月初的時候接受到即將被資遣的消息，這是我人生第一次體驗資遣。其實內心真的很不好受，很不舒服，雖然當天打電話給寶伯的時候，是得到寶伯的恭喜。寶伯認為不好的老闆就該Fire對方。當天也有打電話給哥哥，哥哥當天還在公司，哥哥在我心中是真的很厲害，不過他對他自己也沒很有自信，我也不知道為什麼，哥覺得是一個好好沉澱一下的時間點。還有打電話給阿母，雖然跟阿母聊天的過程中，對於現在工廠這邊確實覺得未來發展可能沒有很好，換個說法就是有在意料之中，只是沒想到來的那麼快，來的那麼措手不及。 </description>
     </item>
     
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://Chang-Hung.github.io/blog/post-1/</link>
+      <link>https://Chang-Hung.github.io/test/blog/post-1/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://Chang-Hung.github.io/blog/post-1/</guid>
+      <guid>https://Chang-Hung.github.io/test/blog/post-1/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
